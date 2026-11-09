@@ -1,4 +1,4 @@
-Oi, eu sou o Wesley 👋
+Oi, eu sou o Wesley
 
 Analista de Sistemas Pleno com 4+ anos em integrações via API e EDI em ambiente de microsserviços (logística / TMS). Estou migrando o foco para **engenharia de software backend**.
 
