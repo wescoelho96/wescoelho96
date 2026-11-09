@@ -1,16 +1,20 @@
-## Hi there 👋
+Oi, eu sou o Wesley 👋
 
-<!--
-**wescoelho96/wescoelho96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Sistemas Pleno com 4+ anos em integrações via API e EDI em ambiente de microsserviços (logística / TMS). Estou migrando o foco para **engenharia de software backend**.
 
-Here are some ideas to get you started:
+## O que eu construo
+- **Point do Frango**: sistema de gestão que roda todo dia no meu próprio negócio (PDV, cozinha em tempo real, estoque por ficha técnica, caixa e financeiro).
+  Java 17 · Spring Boot 3 · PostgreSQL · Flyway · Docker · JWT · testes de concorrência.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+Java 17 · Spring Boot · Spring Data JPA · Spring Security · JUnit 5 · PostgreSQL · MySQL · Docker · Swagger/OpenAPI · Git
+
+## Dia a dia
+Monitoro integrações com ELK, Grafana e New Relic e crio ferramentas internas de automação para analistas.
+
+## Em andamento
+- Controle financeiro pessoal
+- App de agendamento para profissionais de beleza
+
+📍 Santana de Parnaíba, SP · 🇧🇷 PT nativo · 🇺🇸 EN técnico (em evolução)
+📫 [LinkedIn](https://linkedin.com/in/wesley-coelho-149591209)
